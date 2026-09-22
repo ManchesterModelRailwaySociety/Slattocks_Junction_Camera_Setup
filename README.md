@@ -14,11 +14,11 @@ The Camera	The USB Cable	The PC	The Power Supply
     • Plug the power unit into the PC and a mains socket (the PC will need to be 
 	constantly powered as the battery does not hold any significant charge)
 	The power plug at the PC end should have a blue glow round it. 
-    • Open the PC and press to power-up button in the right-hand hinge
+    • Open the PC and press the power-up button in the right-hand hinge
     • Allow the PC to go through its startup routine – The PC uses Linux Mint 
 	instead of Microsoft Windows. You will find it very similar to Windows. In a 
 	while you will see the Linux Mint Desktop.
-    • The program to run is called Cheese (as in “say cheese to the camera”) 
+    • The program to run is called Cheese (as in “say 'cheese' to the camera”) 
 	Double click the Cheese icon on the PC screen. A window will appear showing 
 	an image from the internal PC camera. To view the image from the WebCam click 
 	on the icon to the right of the Burst button. 
