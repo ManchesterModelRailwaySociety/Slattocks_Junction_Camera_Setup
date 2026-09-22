@@ -1,4 +1,4 @@
-Slattocks Junction Camera Setup
+**Slattocks Junction Camera Setup**
 
 You will need the following items…
  
